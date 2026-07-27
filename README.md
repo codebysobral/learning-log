@@ -1,67 +1,30 @@
 # 📚 Learning Log
 
-This repository contains my studies, experiments, and notes throughout my journey in software development. Its purpose is to document what I've learned, record challenges and solutions, and track my growth as a developer.
+This repository is a daily record of my learning journey in software development.
 
-## 🎯 Goals
+Here I document my studies, exercises, experiments, notes, and knowledge acquired throughout my technical growth process.
 
-- Document acquired knowledge.
-- Record experiments and hands-on practice.
-- Share useful references and resources.
-- Track my progress as a software developer.
-
-## 📂 Current Structure
-
-> This Learning Log is continuously evolving. As I progress through my studies, new topics, resources, and folders will be added.
+## 📂 Organization
 
 ```text
 .
-├── Git/
+├── day-001.md
+├── day-002.md
+├── day-003.md
 └── README.md
 ```
 
-Each folder contains study notes, code examples, exercises, or small projects related to its topic.
+Each `day-XXX.md` file represents a daily record containing studied topics, practical exercises, experiments, and relevant observations.
 
-## 📝 What You'll Find
+## 📝 Records
 
-- Concept summaries
-- Code examples
-- Notes on technologies and concepts
-- Useful references and resources
-- Solved challenges
-- Lessons learned
-- Common mistakes and how to avoid them
+The files follow a chronological sequence:
 
-## 🚀 How to Use
+```
+day-001.md
+day-002.md
+day-003.md
+...
+```
 
-This repository is not intended to be a runnable project. Instead, it serves as a technical journal where I document my learning journey. Feel free to explore the topics and follow along.
-
-## 📈 Learning Roadmap
-
-- [x] Git
-- [ ] GitHub
-- [ ] HTML5
-- [ ] CSS3
-- [ ] JavaScript
-- [ ] TypeScript
-- [ ] React
-- [ ] Next.js
-- [ ] Node.js
-- [ ] Express
-- [ ] REST APIs
-- [ ] SQL
-- [ ] PostgreSQL
-- [ ] Prisma ORM
-- [ ] Docker
-- [ ] Linux
-- [ ] CI/CD
-- [ ] Cloud (Concepts & Deployment)
-- [ ] Testing
-- [ ] Software Architecture
-- [ ] Design Patterns
-- [ ] Building Real-World Full Stack Applications
-
-> This roadmap represents my learning journey. As I make progress, each topic will be updated to reflect my current knowledge and experience.
-
-## 🤝 Contributing
-
-Although this is a personal repository, suggestions, corrections, and discussions are always welcome. The goal is to learn continuously and share knowledge with the community.
+The goal of this repository is to maintain a continuous history of my learning process and growth as a software developer.
