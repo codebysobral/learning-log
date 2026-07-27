@@ -1,17 +1,17 @@
 # 📚 Learning Log
 
-Este repositório reúne meus estudos, experimentos e anotações durante minha jornada de aprendizado em desenvolvimento de software. O objetivo é documentar o que aprendi, registrar desafios, soluções e acompanhar minha evolução ao longo do tempo.
+This repository contains my studies, experiments, and notes throughout my journey in software development. Its purpose is to document what I've learned, record challenges and solutions, and track my growth as a developer.
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Registrar conhecimentos adquiridos.
-- Documentar experimentos e testes.
-- Compartilhar aprendizados e referências.
-- Acompanhar minha evolução como desenvolvedor.
+- Document acquired knowledge.
+- Record experiments and hands-on practice.
+- Share useful references and resources.
+- Track my progress as a software developer.
 
-## 📂 Organização Atual
+## 📂 Current Structure
 
-> O Learning Log está em constante evolução. Conforme avanço nos estudos, novas áreas, tópicos e materiais são adicionados ao repositório.
+> This Learning Log is continuously evolving. As I progress through my studies, new topics, resources, and folders will be added.
 
 ```text
 .
@@ -19,23 +19,23 @@ Este repositório reúne meus estudos, experimentos e anotações durante minha 
 └── README.md
 ```
 
-Cada pasta contém estudos, exemplos de código, anotações ou pequenos projetos relacionados ao tema.
+Each folder contains study notes, code examples, exercises, or small projects related to its topic.
 
-## 📝 O que você encontrará
+## 📝 What You'll Find
 
-- Resumos de conceitos.
-- Exemplos de código.
-- Anotações sobre tecnologias e conceitos.
-- Links úteis.
-- Desafios resolvidos.
-- Lições aprendidas.
-- Erros comuns e como foram solucionados.
+- Concept summaries
+- Code examples
+- Notes on technologies and concepts
+- Useful references and resources
+- Solved challenges
+- Lessons learned
+- Common mistakes and how to avoid them
 
-## 🚀 Como utilizar
+## 🚀 How to Use
 
-Este repositório não é um projeto executável. Ele funciona como um diário técnico e pode ser explorado livremente por assunto.
+This repository is not intended to be a runnable project. Instead, it serves as a technical journal where I document my learning journey. Feel free to explore the topics and follow along.
 
-## 📈 Roadmap de Estudos
+## 📈 Learning Roadmap
 
 - [x] Git
 - [ ] GitHub
@@ -47,21 +47,21 @@ Este repositório não é um projeto executável. Ele funciona como um diário t
 - [ ] Next.js
 - [ ] Node.js
 - [ ] Express
-- [ ] APIs REST
+- [ ] REST APIs
 - [ ] SQL
 - [ ] PostgreSQL
 - [ ] Prisma ORM
 - [ ] Docker
 - [ ] Linux
 - [ ] CI/CD
-- [ ] Cloud (conceitos e deploy)
-- [ ] Testes
-- [ ] Arquitetura de Software
+- [ ] Cloud (Concepts & Deployment)
+- [ ] Testing
+- [ ] Software Architecture
 - [ ] Design Patterns
-- [ ] Construção de aplicações Full Stack reais
+- [ ] Building Real-World Full Stack Applications
 
-> Este roadmap representa minha trilha de aprendizado. Conforme avanço nos estudos, os tópicos serão atualizados para refletir meu progresso.
+> This roadmap represents my learning journey. As I make progress, each topic will be updated to reflect my current knowledge and experience.
 
-## 🤝 Contribuições
+## 🤝 Contributing
 
-Embora este seja um repositório pessoal, sugestões, correções e discussões são sempre bem-vindas. O objetivo é compartilhar conhecimento e evoluir continuamente como desenvolvedor.
+Although this is a personal repository, suggestions, corrections, and discussions are always welcome. The goal is to learn continuously and share knowledge with the community.
